@@ -1,13 +1,13 @@
 {
-  "name": "MTB_CRAFT",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "MTB_CRAFT",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "MTBCRAFT-JTB.aternos.me",
-    "port": 28028,
+    "ip": "1c6ismp.mcsh.io",
+    "port": 10430,
     "version": "",
     "try-creative": false
   },
@@ -77,7 +77,7 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": false,
+      "disconnect": true,
       "chat": false
     }
   },
